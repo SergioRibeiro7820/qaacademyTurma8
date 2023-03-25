@@ -18,8 +18,8 @@ public class Ex07Arrays {
         ano2023[10] = "Novembro";
         ano2023[11] = "Dezembro";
 
-            //System.out.println(ano2023[3]); //println imprimir linha
+            System.out.println(ano2023[3]); //println imprimir linha
 
-            System.out.println(ano2023.length); //length = saber o tamanho do vetor.
+            //System.out.println(ano2023.length); //length = saber o tamanho do vetor.
         }
     }

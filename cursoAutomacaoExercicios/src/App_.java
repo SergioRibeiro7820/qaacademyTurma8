@@ -1,4 +1,4 @@
-/*public class App {
+/*public class App_ {
     public static void main(String[] args) throws Exception {
             //2-) Faça um algoritmo para ler e exibir uma palavra (string)
     
@@ -10,7 +10,7 @@
 */
 import javax.swing.JOptionPane;
 
-public class App {
+public class App_ {
 
     public static void main(String[] args) throws Exception {
         //2-) Faça um algoritimo para ler e exibir uma palavra

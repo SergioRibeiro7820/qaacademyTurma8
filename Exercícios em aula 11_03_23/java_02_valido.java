@@ -1,10 +1,10 @@
-import javax.swing.JOptionPane;
+//import javax.swing.JOptionPane;
 
-public class Main {
+public class java_02_valido {
     public static void main(String[] args){
         //2-) Faça um algoritmo para ler e exibir uma palavra (string)
 
-        String palavra = "curso";
+        String palavra = "deu certo";
         System.out.println(palavra); //sysout + tab
     }    
 }

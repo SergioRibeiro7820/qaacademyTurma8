@@ -1,6 +1,6 @@
 /*import javax.swing.JOptionPane;
 
-public class ExExtra { //1-) Faça um algoritimo para ler três valores digitados pelo usuario e exibir.
+public class ExExtra_ { //1-) Faça um algoritimo para ler três valores digitados pelo usuario e exibir.
     
     public static void main(String[] args){
 
@@ -16,7 +16,7 @@ public class ExExtra { //1-) Faça um algoritimo para ler três valores digitado
 
 import javax.swing.JOptionPane;
 
-public class ExExtra { //1-) Faça um algoritimo para ler três valores digitados pelo usuario e exibir.
+public class ExExtra_ { //1-) Faça um algoritimo para ler três valores digitados pelo usuario e exibir.
     
     public static void main(String[] args){
 

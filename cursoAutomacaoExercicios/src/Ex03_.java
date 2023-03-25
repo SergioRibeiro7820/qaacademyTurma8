@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Ex03 { // 3- Faça um algoritimo para ler dois valores (digitados pelo usuário), armazenar em variáveis, e exibir os valores das variaveis, trocados.
+public class Ex03_ { // 3- Faça um algoritimo para ler dois valores (digitados pelo usuário), armazenar em variáveis, e exibir os valores das variaveis, trocados.
 
     public static void main(String[] args) {
 

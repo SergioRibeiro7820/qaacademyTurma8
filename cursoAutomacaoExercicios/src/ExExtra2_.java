@@ -1,5 +1,5 @@
 
-public class ExExtra2 { // Faça um algoritimo para somar dois numeros e exibir o resultado.
+public class ExExtra2_ { // Faça um algoritimo para somar dois numeros e exibir o resultado.
     
     public static void main(String[] args) throws Exception{
         //int num1 = 10;

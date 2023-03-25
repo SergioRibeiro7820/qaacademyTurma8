@@ -1,4 +1,4 @@
-/*public class Ex09 {
+/*public class Ex09_ {
 
     public static void main(String[] args) throws Exception{
         int i = 0;
@@ -9,10 +9,10 @@
     }
     
 }*/
-import javax.swing.JOptionPane;
+//import javax.swing.JOptionPane;
 
 
-public class Ex09 {
+/*public class Ex09_ {
 
     public static void main(String[] args) throws Exception{
 
@@ -28,4 +28,4 @@ public class Ex09 {
             i=i+1;
         }
     }
-}
+}*/
