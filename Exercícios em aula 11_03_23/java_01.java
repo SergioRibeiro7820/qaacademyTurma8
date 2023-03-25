@@ -19,9 +19,9 @@ public void Main(String[] args){
 
 //esse é o que vale
 
-public class Dog{
+/*public class java_01{
     public String nome = "";
     
-    System.out.println(Main);
+    System.out.println(java_01);
        
-}
+}*/
