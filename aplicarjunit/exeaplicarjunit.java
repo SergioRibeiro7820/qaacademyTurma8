@@ -1,4 +1,6 @@
-public class metodos {
+package aplicarjunit;
+
+public class exeaplicarjunit {
     public static String dog(){
         String text1 = "Pandora late muito alto!";
         return text1;
